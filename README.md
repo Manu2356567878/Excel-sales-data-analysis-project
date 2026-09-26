@@ -25,7 +25,7 @@ The project transforms raw sales data into business-focused insights using **Piv
 - KPI Analysis
 - Business Intelligence & Data Visualization
 
-## 📁 Repository Structure
+##  Repository Structure
 
 ```text
 Sales-Performance-Dashboard-Excel/
